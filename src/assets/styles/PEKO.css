@@ -1,0 +1,20 @@
+.container{
+width: 800px;
+height: 60px;
+flex-shrink: 0;
+float: left;
+
+background: #e97a8d;
+
+
+
+}
+
+
+.Cntainer2{
+    width: 409px;
+    height: 608px;
+    flex-shrink: 0;
+
+
+}

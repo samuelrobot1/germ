@@ -1,0 +1,94 @@
+.navbar{
+  display:flex;
+  justify-content: space-between;
+  background: url(<path-to-image>), rgb(22, 20, 20) 50% / cover no-repeat;
+
+}
+.logo{
+
+width: 96px;
+height: 95px;
+flex-shrink: 0;
+
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+
+
+}
+
+button {
+  display: flex;
+  width: 80px;
+  height: 30px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+button:hover,button:active, button:focus {
+  background: #CA6F1E;
+  background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+
+}
+.boton {
+  margin: 20px;
+
+  display:inline;
+  width: 140px;
+}
+.nom1p{
+  display: flex;
+width: 317.862px;
+height: 140px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+color:#CA6F1E;
+
+color: #692e2e;
+text-align: center;
+font-family: Andika New Basic;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.f1ab{
+  display: flex;
+
+height: 152px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+
+color: #FFF;
+text-align: center;
+text-shadow: 5px 4px 0px rgba(0, 0, 0, 0.25);
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.logo{
+  display: flex;
+  width: 110%;
+  height: 122%;
+  justify-content: space-around;
+  border: red 1px solid;
+  color: #E0E0E0;
+  text-align: center;
+  font-family: Andika New Basic;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

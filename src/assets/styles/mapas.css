@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2? family= Alfa+Slab+One & display=swap');
+
+.villo{
+    background-image: url('../../assets//images/img32.png');
+    width: 1512px;
+    height: 463px;
+    flex-shrink: 0;
+    
+}
+
+.contanainer21{
+    width: 1512px;
+    height: 537px;
+    flex-shrink: 0;
+    background: rgba(0, 0, 0, 0.90);
+
+}
+.container12{
+    width: 427px;
+height: 153px;
+flex-shrink: 0;
+float: right;
+
+background: rgba(231, 190, 25, 0.88);
+}
+
+.ENCU1{
+    display: flex;
+    width: 300px;
+    height: 100px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+
+
+color: #FFF;
+text-align: center;
+font-family: Alfa Slab One;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+float: right;
+    
+}
+
+.ENCU2{
+    
+    width: 696px;
+    height: 253px;
+    flex-shrink: 0;
+    
+    color: #FFF;
+    font-family: Alata;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+
+
+
+
+}
